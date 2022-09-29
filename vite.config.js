@@ -7,8 +7,6 @@ export default defineConfig({
             input: [
                 'resources/css/app.css',
                 'resources/js/app.js',
-                'resources/images/logo.png',
-                'resources/images/dev.png',
             ],
             refresh: true,
         }),
